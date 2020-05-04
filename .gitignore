@@ -1,0 +1,11 @@
+# ignores any directory named "packages"
+packages/
+
+# ignores any file named "secret.js"
+secret.js
+
+# ignores any file with a .txt extension
+*.txt
+
+# ignores any file or directory that begins in "log"
+log*
