@@ -15,3 +15,18 @@
 h1 {
 	padding: 20px 0 50px;
 }
+
+button {
+	display: block;
+	padding: 10px;
+	border: none;
+	outline: none;
+	background-color: #000;
+	color: #fff;
+	margin: 0 auto 20px;
+}
+
+img {
+	display: none;
+	margin: 0 auto;
+}
